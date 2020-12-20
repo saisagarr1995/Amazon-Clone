@@ -39,7 +39,7 @@ function Home() {
                 <Product
                     id="123345"
                     title="MacBook air"
-                    price={13000.02}
+                    price={13000.00}
                     rating={5}
                     image={MacBook}
                 />

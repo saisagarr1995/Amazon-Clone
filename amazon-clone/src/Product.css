@@ -11,6 +11,10 @@
   background-color: white;
   z-index: 1;
 }
+.product__title {
+  font-size: 15px;
+  font-weight: 800;
+}
 .product__price {
   margin-top: 5px;
 }
